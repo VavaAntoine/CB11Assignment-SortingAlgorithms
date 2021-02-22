@@ -1,0 +1,24 @@
+
+You are required to build a command prompt (console) application.
+
+You have a product named T-Shirt that has three (3) variations, in terms of,
+1. Color, {RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET} 
+2. Size, {XS, S, M, L, XL, XXL, XXXL} 
+3. Fabric, {WOOL, COTTON, POLYESTER, RAYON, LINEN, CASHMERE, SILK} 
+Each variation gets a different price tag.
+
+You are required to do a comparative analysis where you need to implement three (3) sorting algorithms:
+1. Quick Sort [2 marks]
+2. Bubble Sort [2 marks]
+3. Bucket Sort [2 marks]
+on synthetic data that you produced for at least forty (40) T-Shirts with various Colors, Sizes and Fabrics
+
+Using each of the previous algorithms you are required to sort these forty (40) T-Shirts based on:
+1. Size in ascending [10 marks]
+2. Size in descending [10 marks]
+3. Color in ascending [10 marks]
+4. Color in descending [10 marks]
+5. Fabric in ascending [10 marks]
+6. Fabric in descending [10 marks]
+7. Size and Color and Fabric in ascending [15 marks]
+8. Size and Color and Fabric in descending [15 marks]
