@@ -1,6 +1,7 @@
 # CB11Assignment-SortingAlgorithms
 Quick Sort, Bubble Sort, Bucket Sort **comparative analysis**.
 
+The requirements that have been fulfilled are the following:
 Using each of Quick Sort, Bubble Sort and Bucket Sort sorting algorithms you are required to sort T-Shirts,
 on synthetic data that you produced with various Colors, Sizes and Fabrics. 
 Based on:
